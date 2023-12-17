@@ -1,2 +1,2 @@
 # prom-grafana
-formaiton prometheus grafana
+formation prometheus grafana
